@@ -1,0 +1,7 @@
+venv/
+.idea/
+reports/
+__pycache__/
+log.html
+report.html
+output.xml
